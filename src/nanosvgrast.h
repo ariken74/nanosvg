@@ -32,7 +32,7 @@
 extern "C" {
 #endif
 #endif
-
+using namespace std;
 typedef struct NSVGrasterizer NSVGrasterizer;
 
 /* Example Usage:
